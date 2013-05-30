@@ -1,4 +1,4 @@
-TicketSystem
-============
+Codeigniter + Bootstrap
+=======================
 
-A basic ticketing system.
+A basic environment to start a project with Codeigniter and Twitter Bootstrap.
